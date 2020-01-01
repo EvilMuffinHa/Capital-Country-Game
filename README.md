@@ -2,7 +2,7 @@
 A Small game created to practice my coding in curses
 
 ## Requirements
-Python 3.6 with the curses module
+Python 3.6 with the curses module  
 A shell to run the program on
 
 ## Running
