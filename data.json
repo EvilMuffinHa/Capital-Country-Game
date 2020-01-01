@@ -15,7 +15,7 @@
     "Luanda"
   ],
   "Antigua and Barbuda": [
-    "Saint John’s"
+    "Saint John's"
   ],
   "Argentina": [
     "Buenos Aires"
@@ -122,7 +122,7 @@
   "Costa Rica": [
     "San Jose"
   ],
-  "Cote d’Ivoire": [
+  "Cote d'Ivoire": [
     "Yamoussoukro"
   ],
   "Croatia": [
@@ -201,7 +201,7 @@
     "Athens"
   ],
   "Grenada": [
-    "Saint George’s"
+    "Saint George's"
   ],
   "Guatemala": [
     "Guatemala City"
@@ -527,7 +527,7 @@
     "Lome"
   ],
   "Tonga": [
-    "Nuku’alofa"
+    "Nuku'alofa"
   ],
   "Trinidad and Tobago": [
     "Port-of-Spain"
@@ -548,7 +548,7 @@
     "Kampala"
   ],
   "Ukraine": [
-    "Kyiv"
+    "Kyiv", "Kiev"
   ],
   "United Arab Emirates": [
     "Abu Dhabi"
@@ -578,7 +578,7 @@
     "Hanoi"
   ],
   "Yemen": [
-    "Sanaa"
+    "Sana'a"
   ],
   "Zambia": [
     "Lusaka"
