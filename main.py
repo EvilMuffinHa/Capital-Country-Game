@@ -126,7 +126,6 @@ def main(stdscr):
             win.clear()
             update(win, height, width, 'PRESS ANY KEY', str(score), 'You scored ' + str(score) + '!')
             x = win.getkey()
-            napms(2000)
             win.clear()
 
 
