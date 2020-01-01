@@ -124,6 +124,8 @@ def main(stdscr):
                     pass
                 elapsed_time =  time.time() - start_time
             win.clear()
+            update(win, height, width, str(0), str(score), 'You scored ' + str(score) + '!')
+            napms(2000)
             update(win, height, width, 'PRESS ANY KEY', str(score), 'You scored ' + str(score) + '!')
             x = win.getkey()
             win.clear()
